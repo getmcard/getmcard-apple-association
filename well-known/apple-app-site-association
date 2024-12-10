@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "R296WZY67H.com.getmcard.ios.staging",
+        "paths": [
+          "/plaid/*",
+          "*"
+        ]
+      },
+      {
+        "appID": "R296WZY67H.com.getmcard.ios.prod",
+        "paths": [
+          "/plaid/*",
+          "*"
+        ]
+      }
+    ]
+  }
+}
